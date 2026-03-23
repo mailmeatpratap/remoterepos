@@ -1,0 +1,2 @@
+Hello . THis is files 1 from git local
+second modification, after git add
